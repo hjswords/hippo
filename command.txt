@@ -1,0 +1,9 @@
+git status
+git cat 文件名
+git log
+git add
+git commit -m "备注"
+git checkout --<文件名>
+git reset --hark HEAD^ <文件名>
+$ git reset --hard HEAD^
+
